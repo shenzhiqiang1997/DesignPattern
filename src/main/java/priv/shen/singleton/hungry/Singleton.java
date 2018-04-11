@@ -1,4 +1,4 @@
-package priv.shen.singleton.simplefactory;
+package priv.shen.singleton.hungry;
 
 public class Singleton {
     private static Singleton instance = new Singleton();
